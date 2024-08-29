@@ -1,0 +1,10 @@
+[package]
+name = "ssh-agent-test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+rand = "0.8.5"
+ssh-agent-client-rs = "0.9.1"
+ssh-key = "0.6.6"
